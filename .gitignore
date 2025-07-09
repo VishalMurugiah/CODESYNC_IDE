@@ -1,0 +1,65 @@
+# Dependencies
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Build outputs
+**/dist/
+**/build/
+**/.vite/
+**/target/
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# IDE files
+**/.vscode/
+**/.idea/
+**/*.swp
+**/*.swo
+**/*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Java specific
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/*.logs
+**/*.iml
+
+# Maven specific
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/.mvn/timing.properties
+**/.mvn/wrapper/maven-wrapper.jar
+
+# React/Vite specific
+**/dist-ssr
+**/*.local
+**/coverage/
+**/.nyc_output
+**/.cache/
+**/public/hot
+**/public/storage
+**/storage/*.key
+**/vendor/

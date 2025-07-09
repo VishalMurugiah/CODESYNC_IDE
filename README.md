@@ -3,9 +3,9 @@
 A modern, futuristic collaborative code editor built with React.js, featuring real-time collaboration, beautiful themes, and seamless development experience.
 
 Able to see other worker's cursor and online status with file and line:col they are on 
-![1st user's interface](https://github.com/user-attachments/assets/2f8a2848-e514-427b-a99f-9817a31d2a61)
+![1st user's interface](https://github.com/user-attachments/assets/4c58d5ed-4908-444f-9da0-9a07edcf7558)
 
-![2nd user's interface](https://github.com/user-attachments/assets/170cfb31-8704-414e-8c84-ce128c41779d)
+![2nd user's interface](https://github.com/user-attachments/assets/583c1cdd-60e7-4782-af5e-b7e6d1abd143)
 
 Communicate with others while coding! & Plenty of Cool visual themes to match your vibes!
 ![Console and Theme selection](https://github.com/user-attachments/assets/35adb68c-3e6a-47b6-8645-60320391d298)
